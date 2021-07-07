@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Miami Guest House</string>
+
+    <string name="login_form_title">Login</string>
+    <string name="login_form_username">Username</string>
+    <string name="login_form_password">Password</string>
+    <string name="login_form_login">LOGIN</string>
+    <string name="login_form_signin">New User? SIGN UP</string>
+
+    <string name="sign_in_form_title">SIGN UP</string>
+    <string name="sign_in_form_first_name">First Name</string>
+    <string name="sign_in_form_last_name">Last Name</string>
+    <string name="sign_in_form_email">Email</string>
+    <string name="sign_in_form_username">Username</string>
+    <string name="sign_in_form_password">Password</string>
+    <string name="sign_in_form_country">Country</string>
+    <string name="sign_in_form_sign_in">SIGN UP</string>
+    <string name="sign_in_form_login">Already have an account? Log In</string>
+
+    <string name="splash_name">Miami Guest House</string>
+    <string name="splash_slogan">Your Home of Comfort</string>
+    <string name="dsb">Dashboard</string>
+    <string name="dsb1">LOG OUT</string>
+    <string name="serve">Services Offered</string>
+    <string name="reserve">Reservation Types</string>
+    <string name="book">Booking</string>
+    <string name="location">Our Location</string>
+    <string name="img">TODO</string>
+    <string name="todo">TODO</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyCbNPy5hqDEQFNNRXXXXXXXXXXXXXXXXXXX
+    </string>
+
+    <string name="very_long_lorem_ipsum">
+        General Terms
+        By accessing and booking with, you confirm that you are in agreement with and abound by the terms of service contained in the Terms and Conditions outlined below. These terms apply to the entire website and any email or other types of communication between you and us.
+        Under no circumstance shall team be liable for any direct, indirect, special, incidental or consequential damages, but no limited to loss of data or profit arising out of the use of the inability to use the materials on the site or even if team or authorized representative has been advised of the possibility of such damages. If your use of materials on this site results in the need for servicing, repair or correction of equipment or data you assume any costs thereof.
+        Will not be responsible for any outcome that may occur during the course of usage of our resources. We reserve the rights to change prices and revise the resources usage policy in any moment.
+        License.
+        Miami Guest house grants you a revocable, non-exclusive, non-transferable, limited license to download, install and use our service strictly in accordance with the terms of this Agreement.
+        These Terms and Conditions are a contract between you and Miami Guest House(referred to in these Terms and Conditions as “Miami Guest House”, “us”, “we” or “our”), the provider of the Miami Guest House website and the services accessible from the Miami Guest House website (which was collectively referred to in these Terms and Conditions as the “Miami Guest House Service”).
+        You are agreeing to be bound by these Terms and Conditions if you do not agree to these Terms and Conditions, please do not use the Service in these Terms and Conditions. “you” refers both to you as an individual and to the entity you represent. If you violate any of these Terms and Conditions, we reserve the right to cancel your account or block access without notice.
+
+        Contact Us
+        Don’t hesitate to contact us if you have any questions.
+        Via Email: miamighouse@gmail.com
+        Via Phone Number: 0394859557
+        Address: We are located in Arua City along Ewuata - Muni road next to Asava Chapel
+</string>
+
+    <string name="step_of">Step %1$d of %2$d</string>
+    <string name="section_format">Section : %1$d</string>
+
+    <string name="about_text">The best android implementation of material UI components. This app implemented based on Google Design Guidelines.
+    </string>
+    <string name="title_activity_map">Map</string>
+
+</resources>
